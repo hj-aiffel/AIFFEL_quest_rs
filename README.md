@@ -1,7 +1,10 @@
 # AIFFEL_quest_rs
 ```
+.
 ├── Exploration
 │   ├── Ex01
+│   │   ├── Bike.ipynb
+│   │   ├── Diabetes.ipynb
 │   │   └── README.md
 │   ├── Ex02
 │   │   └── README.md
